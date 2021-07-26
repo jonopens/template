@@ -3,7 +3,7 @@ let clicks: number = 0;
 
 function handleClick(): void {
   clicks += 1;
-  console.log('Incremented successfully { ' + clicks + ' } times.')
+  console.log('Incremented successfully { ' + clicks + ' } times!')
 }
 </script>
 
