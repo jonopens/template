@@ -4,7 +4,7 @@
 
 <picture class="header-logo">
   <source srcset="" media="()" />
-  <img src="https://via.placeholder.com/44" alt="Purposeful logo"/>
+  <img src="https://placekitten.com/44/44" alt="Purposeful logo"/>
 </picture>
 
 <style>
